@@ -12,3 +12,5 @@ https://sites.google.com/site/informatiquestsm/home/semestre-1?authuser=0
 https://book.mixu.net/node/
 # Mixu Books
 https://book.mixu.net/
+# Linux kernal programming
+https://sysprog21.github.io/lkmpg/
