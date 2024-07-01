@@ -14,3 +14,5 @@ https://book.mixu.net/node/
 https://book.mixu.net/
 # Linux kernal programming
 https://sysprog21.github.io/lkmpg/
+# vim setup
+https://linuxhandbook.com/vim-auto-complete/#:~:text=Start%20typing%20something%20and%20then,in%20a%20pop%2Dup%20window.
