@@ -16,3 +16,5 @@ https://book.mixu.net/
 https://sysprog21.github.io/lkmpg/
 # vim setup
 https://linuxhandbook.com/vim-auto-complete/#:~:text=Start%20typing%20something%20and%20then,in%20a%20pop%2Dup%20window.
+# linux+ Course
+https://mega.nz/folder/zyI3yAib#s7cd1vXneBuj-OVjwtJb8g/folder/qm4V2ZiA
