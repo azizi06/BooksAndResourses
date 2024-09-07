@@ -24,3 +24,5 @@ frensh : https://communfrancais.com/wp-content/uploads/2024/01/ExtraitMotsInfoC1
 https://www.cc4e.com/index.php 
 # Dr.chunk Python programming Course
 https://www.py4e.com/
+# c/c++ Docs
+https://cplusplus.com
