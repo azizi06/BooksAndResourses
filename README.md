@@ -28,3 +28,5 @@ https://www.py4e.com/
 https://cplusplus.com
 # BogotoBogo
 https://bogotobogo.com/
+#### cs-sat google or tools
+https://d-krupke.github.io/cpsat-primer/04_modelling.html
