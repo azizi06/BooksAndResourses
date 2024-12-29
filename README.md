@@ -34,3 +34,6 @@ https://d-krupke.github.io/cpsat-primer/04_modelling.html
 https://cheatsheetseries.owasp.org/index.html
 #### sat association
 https://satassociation.org/tutorials.html
+#### ai problems
+https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/
+
