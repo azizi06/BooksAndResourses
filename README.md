@@ -32,3 +32,5 @@ https://bogotobogo.com/
 https://d-krupke.github.io/cpsat-primer/04_modelling.html
 #### Owasp cheat sheet
 https://cheatsheetseries.owasp.org/index.html
+#### sat association
+https://satassociation.org/tutorials.html
