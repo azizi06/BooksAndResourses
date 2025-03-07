@@ -94,4 +94,8 @@
     display: flex;
     gap: 10px;
 }
+#word-container{
+  width: 20vw;
+  background: #ef476f;
+}
   
