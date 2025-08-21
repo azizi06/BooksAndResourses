@@ -1,0 +1,418 @@
+
+======= Equations Differentielle ========
+L'equation utuliser est : f(x) =-y+x+1
+Donner n Le nomber D'eterations : 
+======= Equations Differentielle ========
+L'equation utuliser est : f(x) =-y+x+1
+Donner n Le nomber D'eterations : Donner le debut  de l'intervale : Donner la fin    de l'intervale : 
+=========== Methode de Euler =================
+k:0 methode euler  x = 0.0100, y = 1.0000 || valeur exact : 1.0000498337491681 || erreur : 0.0000
+k:1 methode euler  x = 0.0200, y = 1.0001 || valeur exact : 1.0001986733067552 || erreur : 0.0001
+k:2 methode euler  x = 0.0300, y = 1.0003 || valeur exact : 1.000445533548508 || erreur : 0.0001
+k:3 methode euler  x = 0.0400, y = 1.0006 || valeur exact : 1.000789439152323 || erreur : 0.0002
+k:4 methode euler  x = 0.0500, y = 1.0010 || valeur exact : 1.001229424500714 || erreur : 0.0002
+k:5 methode euler  x = 0.0600, y = 1.0015 || valeur exact : 1.0017645335842487 || erreur : 0.0003
+k:6 methode euler  x = 0.0700, y = 1.0021 || valeur exact : 1.0023938199059483 || erreur : 0.0003
+k:7 methode euler  x = 0.0800, y = 1.0027 || valeur exact : 1.0031163463866357 || erreur : 0.0004
+k:8 methode euler  x = 0.0900, y = 1.0035 || valeur exact : 1.0039311852712283 || erreur : 0.0004
+k:9 methode euler  x = 0.1000, y = 1.0044 || valeur exact : 1.0048374180359596 || erreur : 0.0005
+k:10 methode euler  x = 0.1100, y = 1.0053 || valeur exact : 1.0058341352965283 || erreur : 0.0005
+k:11 methode euler  x = 0.1200, y = 1.0064 || valeur exact : 1.0069204367171574 || erreur : 0.0005
+k:12 methode euler  x = 0.1300, y = 1.0075 || valeur exact : 1.0080954309205612 || erreur : 0.0006
+k:13 methode euler  x = 0.1400, y = 1.0087 || valeur exact : 1.0093582353988058 || erreur : 0.0006
+k:14 methode euler  x = 0.1500, y = 1.0101 || valeur exact : 1.0107079764250577 || erreur : 0.0006
+k:15 methode euler  x = 0.1600, y = 1.0115 || valeur exact : 1.0121437889662113 || erreur : 0.0007
+k:16 methode euler  x = 0.1700, y = 1.0129 || valeur exact : 1.0136648165963837 || erreur : 0.0007
+k:17 methode euler  x = 0.1800, y = 1.0145 || valeur exact : 1.015270211411272 || erreur : 0.0008
+k:18 methode euler  x = 0.1900, y = 1.0162 || valeur exact : 1.0169591339433623 || erreur : 0.0008
+k:19 methode euler  x = 0.2000, y = 1.0179 || valeur exact : 1.0187307530779819 || erreur : 0.0008
+k:20 methode euler  x = 0.2100, y = 1.0197 || valeur exact : 1.020584245970187 || erreur : 0.0009
+k:21 methode euler  x = 0.2200, y = 1.0216 || valeur exact : 1.0225187979624786 || erreur : 0.0009
+k:22 methode euler  x = 0.2300, y = 1.0236 || valeur exact : 1.024533602503334 || erreur : 0.0009
+k:23 methode euler  x = 0.2400, y = 1.0257 || valeur exact : 1.0266278610665533 || erreur : 0.0009
+k:24 methode euler  x = 0.2500, y = 1.0278 || valeur exact : 1.028800783071405 || erreur : 0.0010
+k:25 methode euler  x = 0.2600, y = 1.0300 || valeur exact : 1.0310515858035663 || erreur : 0.0010
+k:26 methode euler  x = 0.2700, y = 1.0323 || valeur exact : 1.0333794943368533 || erreur : 0.0010
+k:27 methode euler  x = 0.2800, y = 1.0347 || valeur exact : 1.0357837414557254 || erreur : 0.0011
+k:28 methode euler  x = 0.2900, y = 1.0372 || valeur exact : 1.0382635675785652 || erreur : 0.0011
+k:29 methode euler  x = 0.3000, y = 1.0397 || valeur exact : 1.0408182206817178 || erreur : 0.0011
+k:30 methode euler  x = 0.3100, y = 1.0423 || valeur exact : 1.0434469562242894 || erreur : 0.0011
+k:31 methode euler  x = 0.3200, y = 1.0450 || valeur exact : 1.046149037073691 || erreur : 0.0012
+k:32 methode euler  x = 0.3300, y = 1.0477 || valeur exact : 1.0489237334319261 || erreur : 0.0012
+k:33 methode euler  x = 0.3400, y = 1.0506 || valeur exact : 1.0517703227626098 || erreur : 0.0012
+k:34 methode euler  x = 0.3500, y = 1.0534 || valeur exact : 1.0546880897187134 || erreur : 0.0012
+k:35 methode euler  x = 0.3600, y = 1.0564 || valeur exact : 1.0576763260710311 || erreur : 0.0013
+k:36 methode euler  x = 0.3700, y = 1.0594 || valeur exact : 1.0607343306373547 || erreur : 0.0013
+k:37 methode euler  x = 0.3800, y = 1.0626 || valeur exact : 1.063861409212356 || erreur : 0.0013
+k:38 methode euler  x = 0.3900, y = 1.0657 || valeur exact : 1.0670568744981648 || erreur : 0.0013
+k:39 methode euler  x = 0.4000, y = 1.0690 || valeur exact : 1.0703200460356395 || erreur : 0.0013
+k:40 methode euler  x = 0.4100, y = 1.0723 || valeur exact : 1.0736502501363194 || erreur : 0.0014
+k:41 methode euler  x = 0.4200, y = 1.0757 || valeur exact : 1.077046819815057 || erreur : 0.0014
+k:42 methode euler  x = 0.4300, y = 1.0791 || valeur exact : 1.0805090947233167 || erreur : 0.0014
+k:43 methode euler  x = 0.4400, y = 1.0826 || valeur exact : 1.0840364210831415 || erreur : 0.0014
+k:44 methode euler  x = 0.4500, y = 1.0862 || valeur exact : 1.0876281516217734 || erreur : 0.0014
+k:45 methode euler  x = 0.4600, y = 1.0898 || valeur exact : 1.0912836455069261 || erreur : 0.0015
+k:46 methode euler  x = 0.4700, y = 1.0935 || valeur exact : 1.095002268282701 || erreur : 0.0015
+k:47 methode euler  x = 0.4800, y = 1.0973 || valeur exact : 1.098783391806141 || erreur : 0.0015
+k:48 methode euler  x = 0.4900, y = 1.1011 || valeur exact : 1.102626394184416 || erreur : 0.0015
+k:49 methode euler  x = 0.5000, y = 1.1050 || valeur exact : 1.1065306597126336 || erreur : 0.0015
+k:50 methode euler  x = 0.5100, y = 1.1090 || valeur exact : 1.110495578812266 || erreur : 0.0015
+k:51 methode euler  x = 0.5200, y = 1.1130 || valeur exact : 1.1145205479701943 || erreur : 0.0016
+k:52 methode euler  x = 0.5300, y = 1.1170 || valeur exact : 1.1186049696783553 || erreur : 0.0016
+k:53 methode euler  x = 0.5400, y = 1.1212 || valeur exact : 1.1227482523739898 || erreur : 0.0016
+k:54 methode euler  x = 0.5500, y = 1.1254 || valeur exact : 1.126949810380487 || erreur : 0.0016
+k:55 methode euler  x = 0.5600, y = 1.1296 || valeur exact : 1.131209063848815 || erreur : 0.0016
+k:56 methode euler  x = 0.5700, y = 1.1339 || valeur exact : 1.1355254386995373 || erreur : 0.0016
+k:57 methode euler  x = 0.5800, y = 1.1383 || valeur exact : 1.139898366565402 || erreur : 0.0016
+k:58 methode euler  x = 0.5900, y = 1.1427 || valeur exact : 1.1443272847345072 || erreur : 0.0016
+k:59 methode euler  x = 0.6000, y = 1.1472 || valeur exact : 1.1488116360940266 || erreur : 0.0017
+k:60 methode euler  x = 0.6100, y = 1.1517 || valeur exact : 1.1533508690745 || erreur : 0.0017
+k:61 methode euler  x = 0.6200, y = 1.1563 || valeur exact : 1.1579444375946748 || erreur : 0.0017
+k:62 methode euler  x = 0.6300, y = 1.1609 || valeur exact : 1.1625918010068972 || erreur : 0.0017
+k:63 methode euler  x = 0.6400, y = 1.1656 || valeur exact : 1.1672924240430487 || erreur : 0.0017
+k:64 methode euler  x = 0.6500, y = 1.1703 || valeur exact : 1.1720457767610162 || erreur : 0.0017
+k:65 methode euler  x = 0.6600, y = 1.1751 || valeur exact : 1.1768513344916993 || erreur : 0.0017
+k:66 methode euler  x = 0.6700, y = 1.1800 || valeur exact : 1.1817085777865426 || erreur : 0.0017
+k:67 methode euler  x = 0.6800, y = 1.1849 || valeur exact : 1.1866169923655898 || erreur : 0.0017
+k:68 methode euler  x = 0.6900, y = 1.1898 || valeur exact : 1.1915760690660557 || erreur : 0.0017
+k:69 methode euler  x = 0.7000, y = 1.1948 || valeur exact : 1.1965853037914096 || erreur : 0.0017
+k:70 methode euler  x = 0.7100, y = 1.1999 || valeur exact : 1.2016441974609653 || erreur : 0.0018
+k:71 methode euler  x = 0.7200, y = 1.2050 || valeur exact : 1.206752255959972 || erreur : 0.0018
+k:72 methode euler  x = 0.7300, y = 1.2101 || valeur exact : 1.2119089900902027 || erreur : 0.0018
+k:73 methode euler  x = 0.7400, y = 1.2153 || valeur exact : 1.2171139155210347 || erreur : 0.0018
+k:74 methode euler  x = 0.7500, y = 1.2206 || valeur exact : 1.222366552741015 || erreur : 0.0018
+k:75 methode euler  x = 0.7600, y = 1.2259 || valeur exact : 1.2276664270099094 || erreur : 0.0018
+k:76 methode euler  x = 0.7700, y = 1.2312 || valeur exact : 1.2330130683112284 || erreur : 0.0018
+k:77 methode euler  x = 0.7800, y = 1.2366 || valeur exact : 1.2384060113052238 || erreur : 0.0018
+k:78 methode euler  x = 0.7900, y = 1.2420 || valeur exact : 1.2438447952823561 || erreur : 0.0018
+k:79 methode euler  x = 0.8000, y = 1.2475 || valeur exact : 1.2493289641172218 || erreur : 0.0018
+k:80 methode euler  x = 0.8100, y = 1.2530 || valeur exact : 1.2548580662229414 || erreur : 0.0018
+k:81 methode euler  x = 0.8200, y = 1.2586 || valeur exact : 1.2604316545059995 || erreur : 0.0018
+k:82 methode euler  x = 0.8300, y = 1.2642 || valeur exact : 1.266049286321536 || erreur : 0.0018
+k:83 methode euler  x = 0.8400, y = 1.2699 || valeur exact : 1.27171052342908 || erreur : 0.0018
+k:84 methode euler  x = 0.8500, y = 1.2756 || valeur exact : 1.277414931948727 || erreur : 0.0018
+k:85 methode euler  x = 0.8600, y = 1.2813 || valeur exact : 1.2831620823177492 || erreur : 0.0018
+k:86 methode euler  x = 0.8700, y = 1.2871 || valeur exact : 1.2889515492476393 || erreur : 0.0018
+k:87 methode euler  x = 0.8800, y = 1.2929 || valeur exact : 1.2947829116815817 || erreur : 0.0018
+k:88 methode euler  x = 0.8900, y = 1.2988 || valeur exact : 1.300655752752346 || erreur : 0.0018
+k:89 methode euler  x = 0.9000, y = 1.3047 || valeur exact : 1.3065696597405996 || erreur : 0.0018
+k:90 methode euler  x = 0.9100, y = 1.3107 || valeur exact : 1.3125242240336363 || erreur : 0.0018
+k:91 methode euler  x = 0.9200, y = 1.3167 || valeur exact : 1.3185190410845145 || erreur : 0.0018
+k:92 methode euler  x = 0.9300, y = 1.3227 || valeur exact : 1.3245537103716014 || erreur : 0.0018
+k:93 methode euler  x = 0.9400, y = 1.3288 || valeur exact : 1.3306278353585215 || erreur : 0.0018
+k:94 methode euler  x = 0.9500, y = 1.3349 || valeur exact : 1.3367410234545016 || erreur : 0.0018
+k:95 methode euler  x = 0.9600, y = 1.3410 || valeur exact : 1.3428928859751124 || erreur : 0.0018
+k:96 methode euler  x = 0.9700, y = 1.3472 || valeur exact : 1.3490830381033991 || erreur : 0.0018
+k:97 methode euler  x = 0.9800, y = 1.3535 || valeur exact : 1.3553110988513999 || erreur : 0.0018
+k:98 methode euler  x = 0.9900, y = 1.3597 || valeur exact : 1.3615766910220461 || erreur : 0.0018
+k:99 methode euler  x = 1.0000, y = 1.3660 || valeur exact : 1.3678794411714428 || erreur : 0.0018
+
+=========== Methode de Euler Recursive =================
+methode euler  x = 0.0100, y = 1.0000 || valeur exact : 1.0000498337491681 || erreur : 0.0000
+methode euler  x = 0.0200, y = 1.0001 || valeur exact : 1.0001986733067552 || erreur : 0.0001
+methode euler  x = 0.0300, y = 1.0003 || valeur exact : 1.000445533548508 || erreur : 0.0001
+methode euler  x = 0.0400, y = 1.0006 || valeur exact : 1.000789439152323 || erreur : 0.0002
+methode euler  x = 0.0500, y = 1.0010 || valeur exact : 1.001229424500714 || erreur : 0.0002
+methode euler  x = 0.0600, y = 1.0015 || valeur exact : 1.0017645335842487 || erreur : 0.0003
+methode euler  x = 0.0700, y = 1.0021 || valeur exact : 1.0023938199059483 || erreur : 0.0003
+methode euler  x = 0.0800, y = 1.0027 || valeur exact : 1.0031163463866357 || erreur : 0.0004
+methode euler  x = 0.0900, y = 1.0035 || valeur exact : 1.0039311852712283 || erreur : 0.0004
+methode euler  x = 0.1000, y = 1.0044 || valeur exact : 1.0048374180359596 || erreur : 0.0005
+methode euler  x = 0.1100, y = 1.0053 || valeur exact : 1.0058341352965283 || erreur : 0.0005
+methode euler  x = 0.1200, y = 1.0064 || valeur exact : 1.0069204367171574 || erreur : 0.0005
+methode euler  x = 0.1300, y = 1.0075 || valeur exact : 1.0080954309205612 || erreur : 0.0006
+methode euler  x = 0.1400, y = 1.0087 || valeur exact : 1.0093582353988058 || erreur : 0.0006
+methode euler  x = 0.1500, y = 1.0101 || valeur exact : 1.0107079764250577 || erreur : 0.0006
+methode euler  x = 0.1600, y = 1.0115 || valeur exact : 1.0121437889662113 || erreur : 0.0007
+methode euler  x = 0.1700, y = 1.0129 || valeur exact : 1.0136648165963837 || erreur : 0.0007
+methode euler  x = 0.1800, y = 1.0145 || valeur exact : 1.015270211411272 || erreur : 0.0008
+methode euler  x = 0.1900, y = 1.0162 || valeur exact : 1.0169591339433623 || erreur : 0.0008
+methode euler  x = 0.2000, y = 1.0179 || valeur exact : 1.0187307530779819 || erreur : 0.0008
+methode euler  x = 0.2100, y = 1.0197 || valeur exact : 1.020584245970187 || erreur : 0.0009
+methode euler  x = 0.2200, y = 1.0216 || valeur exact : 1.0225187979624786 || erreur : 0.0009
+methode euler  x = 0.2300, y = 1.0236 || valeur exact : 1.024533602503334 || erreur : 0.0009
+methode euler  x = 0.2400, y = 1.0257 || valeur exact : 1.0266278610665533 || erreur : 0.0009
+methode euler  x = 0.2500, y = 1.0278 || valeur exact : 1.028800783071405 || erreur : 0.0010
+methode euler  x = 0.2600, y = 1.0300 || valeur exact : 1.0310515858035663 || erreur : 0.0010
+methode euler  x = 0.2700, y = 1.0323 || valeur exact : 1.0333794943368533 || erreur : 0.0010
+methode euler  x = 0.2800, y = 1.0347 || valeur exact : 1.0357837414557254 || erreur : 0.0011
+methode euler  x = 0.2900, y = 1.0372 || valeur exact : 1.0382635675785652 || erreur : 0.0011
+methode euler  x = 0.3000, y = 1.0397 || valeur exact : 1.0408182206817178 || erreur : 0.0011
+methode euler  x = 0.3100, y = 1.0423 || valeur exact : 1.0434469562242894 || erreur : 0.0011
+methode euler  x = 0.3200, y = 1.0450 || valeur exact : 1.046149037073691 || erreur : 0.0012
+methode euler  x = 0.3300, y = 1.0477 || valeur exact : 1.0489237334319261 || erreur : 0.0012
+methode euler  x = 0.3400, y = 1.0506 || valeur exact : 1.0517703227626098 || erreur : 0.0012
+methode euler  x = 0.3500, y = 1.0534 || valeur exact : 1.0546880897187134 || erreur : 0.0012
+methode euler  x = 0.3600, y = 1.0564 || valeur exact : 1.0576763260710311 || erreur : 0.0013
+methode euler  x = 0.3700, y = 1.0594 || valeur exact : 1.0607343306373547 || erreur : 0.0013
+methode euler  x = 0.3800, y = 1.0626 || valeur exact : 1.063861409212356 || erreur : 0.0013
+methode euler  x = 0.3900, y = 1.0657 || valeur exact : 1.0670568744981648 || erreur : 0.0013
+methode euler  x = 0.4000, y = 1.0690 || valeur exact : 1.0703200460356395 || erreur : 0.0013
+methode euler  x = 0.4100, y = 1.0723 || valeur exact : 1.0736502501363194 || erreur : 0.0014
+methode euler  x = 0.4200, y = 1.0757 || valeur exact : 1.077046819815057 || erreur : 0.0014
+methode euler  x = 0.4300, y = 1.0791 || valeur exact : 1.0805090947233167 || erreur : 0.0014
+methode euler  x = 0.4400, y = 1.0826 || valeur exact : 1.0840364210831415 || erreur : 0.0014
+methode euler  x = 0.4500, y = 1.0862 || valeur exact : 1.0876281516217734 || erreur : 0.0014
+methode euler  x = 0.4600, y = 1.0898 || valeur exact : 1.0912836455069261 || erreur : 0.0015
+methode euler  x = 0.4700, y = 1.0935 || valeur exact : 1.095002268282701 || erreur : 0.0015
+methode euler  x = 0.4800, y = 1.0973 || valeur exact : 1.098783391806141 || erreur : 0.0015
+methode euler  x = 0.4900, y = 1.1011 || valeur exact : 1.102626394184416 || erreur : 0.0015
+methode euler  x = 0.5000, y = 1.1050 || valeur exact : 1.1065306597126336 || erreur : 0.0015
+methode euler  x = 0.5100, y = 1.1090 || valeur exact : 1.110495578812266 || erreur : 0.0015
+methode euler  x = 0.5200, y = 1.1130 || valeur exact : 1.1145205479701943 || erreur : 0.0016
+methode euler  x = 0.5300, y = 1.1170 || valeur exact : 1.1186049696783553 || erreur : 0.0016
+methode euler  x = 0.5400, y = 1.1212 || valeur exact : 1.1227482523739898 || erreur : 0.0016
+methode euler  x = 0.5500, y = 1.1254 || valeur exact : 1.126949810380487 || erreur : 0.0016
+methode euler  x = 0.5600, y = 1.1296 || valeur exact : 1.131209063848815 || erreur : 0.0016
+methode euler  x = 0.5700, y = 1.1339 || valeur exact : 1.1355254386995373 || erreur : 0.0016
+methode euler  x = 0.5800, y = 1.1383 || valeur exact : 1.139898366565402 || erreur : 0.0016
+methode euler  x = 0.5900, y = 1.1427 || valeur exact : 1.1443272847345072 || erreur : 0.0016
+methode euler  x = 0.6000, y = 1.1472 || valeur exact : 1.1488116360940266 || erreur : 0.0017
+methode euler  x = 0.6100, y = 1.1517 || valeur exact : 1.1533508690745 || erreur : 0.0017
+methode euler  x = 0.6200, y = 1.1563 || valeur exact : 1.1579444375946748 || erreur : 0.0017
+methode euler  x = 0.6300, y = 1.1609 || valeur exact : 1.1625918010068972 || erreur : 0.0017
+methode euler  x = 0.6400, y = 1.1656 || valeur exact : 1.1672924240430487 || erreur : 0.0017
+methode euler  x = 0.6500, y = 1.1703 || valeur exact : 1.1720457767610162 || erreur : 0.0017
+methode euler  x = 0.6600, y = 1.1751 || valeur exact : 1.1768513344916993 || erreur : 0.0017
+methode euler  x = 0.6700, y = 1.1800 || valeur exact : 1.1817085777865426 || erreur : 0.0017
+methode euler  x = 0.6800, y = 1.1849 || valeur exact : 1.1866169923655898 || erreur : 0.0017
+methode euler  x = 0.6900, y = 1.1898 || valeur exact : 1.1915760690660557 || erreur : 0.0017
+methode euler  x = 0.7000, y = 1.1948 || valeur exact : 1.1965853037914096 || erreur : 0.0017
+methode euler  x = 0.7100, y = 1.1999 || valeur exact : 1.2016441974609653 || erreur : 0.0018
+methode euler  x = 0.7200, y = 1.2050 || valeur exact : 1.206752255959972 || erreur : 0.0018
+methode euler  x = 0.7300, y = 1.2101 || valeur exact : 1.2119089900902027 || erreur : 0.0018
+methode euler  x = 0.7400, y = 1.2153 || valeur exact : 1.2171139155210347 || erreur : 0.0018
+methode euler  x = 0.7500, y = 1.2206 || valeur exact : 1.222366552741015 || erreur : 0.0018
+methode euler  x = 0.7600, y = 1.2259 || valeur exact : 1.2276664270099094 || erreur : 0.0018
+methode euler  x = 0.7700, y = 1.2312 || valeur exact : 1.2330130683112284 || erreur : 0.0018
+methode euler  x = 0.7800, y = 1.2366 || valeur exact : 1.2384060113052238 || erreur : 0.0018
+methode euler  x = 0.7900, y = 1.2420 || valeur exact : 1.2438447952823561 || erreur : 0.0018
+methode euler  x = 0.8000, y = 1.2475 || valeur exact : 1.2493289641172218 || erreur : 0.0018
+methode euler  x = 0.8100, y = 1.2530 || valeur exact : 1.2548580662229414 || erreur : 0.0018
+methode euler  x = 0.8200, y = 1.2586 || valeur exact : 1.2604316545059995 || erreur : 0.0018
+methode euler  x = 0.8300, y = 1.2642 || valeur exact : 1.266049286321536 || erreur : 0.0018
+methode euler  x = 0.8400, y = 1.2699 || valeur exact : 1.27171052342908 || erreur : 0.0018
+methode euler  x = 0.8500, y = 1.2756 || valeur exact : 1.277414931948727 || erreur : 0.0018
+methode euler  x = 0.8600, y = 1.2813 || valeur exact : 1.2831620823177492 || erreur : 0.0018
+methode euler  x = 0.8700, y = 1.2871 || valeur exact : 1.2889515492476393 || erreur : 0.0018
+methode euler  x = 0.8800, y = 1.2929 || valeur exact : 1.2947829116815817 || erreur : 0.0018
+methode euler  x = 0.8900, y = 1.2988 || valeur exact : 1.300655752752346 || erreur : 0.0018
+methode euler  x = 0.9000, y = 1.3047 || valeur exact : 1.3065696597405996 || erreur : 0.0018
+methode euler  x = 0.9100, y = 1.3107 || valeur exact : 1.3125242240336363 || erreur : 0.0018
+methode euler  x = 0.9200, y = 1.3167 || valeur exact : 1.3185190410845145 || erreur : 0.0018
+methode euler  x = 0.9300, y = 1.3227 || valeur exact : 1.3245537103716014 || erreur : 0.0018
+methode euler  x = 0.9400, y = 1.3288 || valeur exact : 1.3306278353585215 || erreur : 0.0018
+methode euler  x = 0.9500, y = 1.3349 || valeur exact : 1.3367410234545016 || erreur : 0.0018
+methode euler  x = 0.9600, y = 1.3410 || valeur exact : 1.3428928859751124 || erreur : 0.0018
+methode euler  x = 0.9700, y = 1.3472 || valeur exact : 1.3490830381033991 || erreur : 0.0018
+methode euler  x = 0.9800, y = 1.3535 || valeur exact : 1.3553110988513999 || erreur : 0.0018
+methode euler  x = 0.9900, y = 1.3597 || valeur exact : 1.3615766910220461 || erreur : 0.0018
+methode euler  x = 1.0000, y = 1.3660 || valeur exact : 1.3678794411714428 || erreur : 0.0018
+
+=========== Methode de Taylor =================
+k:0 methode de taylor  x = 0.0100, y = 1.0000 || valeur exact : 1.0000498337491681 || erreur : 0.0000
+k:1 methode de taylor  x = 0.0200, y = 1.0001 || valeur exact : 1.0001986733067552 || erreur : 0.0001
+k:2 methode de taylor  x = 0.0300, y = 1.0003 || valeur exact : 1.000445533548508 || erreur : 0.0001
+k:3 methode de taylor  x = 0.0400, y = 1.0006 || valeur exact : 1.000789439152323 || erreur : 0.0002
+k:4 methode de taylor  x = 0.0500, y = 1.0010 || valeur exact : 1.001229424500714 || erreur : 0.0002
+k:5 methode de taylor  x = 0.0600, y = 1.0015 || valeur exact : 1.0017645335842487 || erreur : 0.0003
+k:6 methode de taylor  x = 0.0700, y = 1.0021 || valeur exact : 1.0023938199059483 || erreur : 0.0003
+k:7 methode de taylor  x = 0.0800, y = 1.0027 || valeur exact : 1.0031163463866357 || erreur : 0.0004
+k:8 methode de taylor  x = 0.0900, y = 1.0035 || valeur exact : 1.0039311852712283 || erreur : 0.0004
+k:9 methode de taylor  x = 0.1000, y = 1.0044 || valeur exact : 1.0048374180359596 || erreur : 0.0005
+k:10 methode de taylor  x = 0.1100, y = 1.0053 || valeur exact : 1.0058341352965283 || erreur : 0.0005
+k:11 methode de taylor  x = 0.1200, y = 1.0064 || valeur exact : 1.0069204367171574 || erreur : 0.0006
+k:12 methode de taylor  x = 0.1300, y = 1.0075 || valeur exact : 1.0080954309205612 || erreur : 0.0006
+k:13 methode de taylor  x = 0.1400, y = 1.0087 || valeur exact : 1.0093582353988058 || erreur : 0.0007
+k:14 methode de taylor  x = 0.1500, y = 1.0100 || valeur exact : 1.0107079764250577 || erreur : 0.0007
+k:15 methode de taylor  x = 0.1600, y = 1.0114 || valeur exact : 1.0121437889662113 || erreur : 0.0007
+k:16 methode de taylor  x = 0.1700, y = 1.0129 || valeur exact : 1.0136648165963837 || erreur : 0.0008
+k:17 methode de taylor  x = 0.1800, y = 1.0144 || valeur exact : 1.015270211411272 || erreur : 0.0008
+k:18 methode de taylor  x = 0.1900, y = 1.0161 || valeur exact : 1.0169591339433623 || erreur : 0.0009
+k:19 methode de taylor  x = 0.2000, y = 1.0178 || valeur exact : 1.0187307530779819 || erreur : 0.0009
+k:20 methode de taylor  x = 0.2100, y = 1.0196 || valeur exact : 1.020584245970187 || erreur : 0.0009
+k:21 methode de taylor  x = 0.2200, y = 1.0215 || valeur exact : 1.0225187979624786 || erreur : 0.0010
+k:22 methode de taylor  x = 0.2300, y = 1.0235 || valeur exact : 1.024533602503334 || erreur : 0.0010
+k:23 methode de taylor  x = 0.2400, y = 1.0256 || valeur exact : 1.0266278610665533 || erreur : 0.0011
+k:24 methode de taylor  x = 0.2500, y = 1.0277 || valeur exact : 1.028800783071405 || erreur : 0.0011
+k:25 methode de taylor  x = 0.2600, y = 1.0299 || valeur exact : 1.0310515858035663 || erreur : 0.0011
+k:26 methode de taylor  x = 0.2700, y = 1.0322 || valeur exact : 1.0333794943368533 || erreur : 0.0012
+k:27 methode de taylor  x = 0.2800, y = 1.0346 || valeur exact : 1.0357837414557254 || erreur : 0.0012
+k:28 methode de taylor  x = 0.2900, y = 1.0370 || valeur exact : 1.0382635675785652 || erreur : 0.0012
+k:29 methode de taylor  x = 0.3000, y = 1.0395 || valeur exact : 1.0408182206817178 || erreur : 0.0013
+k:30 methode de taylor  x = 0.3100, y = 1.0421 || valeur exact : 1.0434469562242894 || erreur : 0.0013
+k:31 methode de taylor  x = 0.3200, y = 1.0448 || valeur exact : 1.046149037073691 || erreur : 0.0014
+k:32 methode de taylor  x = 0.3300, y = 1.0475 || valeur exact : 1.0489237334319261 || erreur : 0.0014
+k:33 methode de taylor  x = 0.3400, y = 1.0504 || valeur exact : 1.0517703227626098 || erreur : 0.0014
+k:34 methode de taylor  x = 0.3500, y = 1.0532 || valeur exact : 1.0546880897187134 || erreur : 0.0015
+k:35 methode de taylor  x = 0.3600, y = 1.0562 || valeur exact : 1.0576763260710311 || erreur : 0.0015
+k:36 methode de taylor  x = 0.3700, y = 1.0592 || valeur exact : 1.0607343306373547 || erreur : 0.0015
+k:37 methode de taylor  x = 0.3800, y = 1.0623 || valeur exact : 1.063861409212356 || erreur : 0.0015
+k:38 methode de taylor  x = 0.3900, y = 1.0655 || valeur exact : 1.0670568744981648 || erreur : 0.0016
+k:39 methode de taylor  x = 0.4000, y = 1.0687 || valeur exact : 1.0703200460356395 || erreur : 0.0016
+k:40 methode de taylor  x = 0.4100, y = 1.0720 || valeur exact : 1.0736502501363194 || erreur : 0.0016
+k:41 methode de taylor  x = 0.4200, y = 1.0754 || valeur exact : 1.077046819815057 || erreur : 0.0017
+k:42 methode de taylor  x = 0.4300, y = 1.0788 || valeur exact : 1.0805090947233167 || erreur : 0.0017
+k:43 methode de taylor  x = 0.4400, y = 1.0823 || valeur exact : 1.0840364210831415 || erreur : 0.0017
+k:44 methode de taylor  x = 0.4500, y = 1.0859 || valeur exact : 1.0876281516217734 || erreur : 0.0018
+k:45 methode de taylor  x = 0.4600, y = 1.0895 || valeur exact : 1.0912836455069261 || erreur : 0.0018
+k:46 methode de taylor  x = 0.4700, y = 1.0932 || valeur exact : 1.095002268282701 || erreur : 0.0018
+k:47 methode de taylor  x = 0.4800, y = 1.0969 || valeur exact : 1.098783391806141 || erreur : 0.0018
+k:48 methode de taylor  x = 0.4900, y = 1.1008 || valeur exact : 1.102626394184416 || erreur : 0.0019
+k:49 methode de taylor  x = 0.5000, y = 1.1046 || valeur exact : 1.1065306597126336 || erreur : 0.0019
+k:50 methode de taylor  x = 0.5100, y = 1.1086 || valeur exact : 1.110495578812266 || erreur : 0.0019
+k:51 methode de taylor  x = 0.5200, y = 1.1126 || valeur exact : 1.1145205479701943 || erreur : 0.0020
+k:52 methode de taylor  x = 0.5300, y = 1.1166 || valeur exact : 1.1186049696783553 || erreur : 0.0020
+k:53 methode de taylor  x = 0.5400, y = 1.1207 || valeur exact : 1.1227482523739898 || erreur : 0.0020
+k:54 methode de taylor  x = 0.5500, y = 1.1249 || valeur exact : 1.126949810380487 || erreur : 0.0020
+k:55 methode de taylor  x = 0.5600, y = 1.1292 || valeur exact : 1.131209063848815 || erreur : 0.0021
+k:56 methode de taylor  x = 0.5700, y = 1.1335 || valeur exact : 1.1355254386995373 || erreur : 0.0021
+k:57 methode de taylor  x = 0.5800, y = 1.1378 || valeur exact : 1.139898366565402 || erreur : 0.0021
+k:58 methode de taylor  x = 0.5900, y = 1.1422 || valeur exact : 1.1443272847345072 || erreur : 0.0021
+k:59 methode de taylor  x = 0.6000, y = 1.1467 || valeur exact : 1.1488116360940266 || erreur : 0.0021
+k:60 methode de taylor  x = 0.6100, y = 1.1512 || valeur exact : 1.1533508690745 || erreur : 0.0022
+k:61 methode de taylor  x = 0.6200, y = 1.1558 || valeur exact : 1.1579444375946748 || erreur : 0.0022
+k:62 methode de taylor  x = 0.6300, y = 1.1604 || valeur exact : 1.1625918010068972 || erreur : 0.0022
+k:63 methode de taylor  x = 0.6400, y = 1.1651 || valeur exact : 1.1672924240430487 || erreur : 0.0022
+k:64 methode de taylor  x = 0.6500, y = 1.1698 || valeur exact : 1.1720457767610162 || erreur : 0.0023
+k:65 methode de taylor  x = 0.6600, y = 1.1746 || valeur exact : 1.1768513344916993 || erreur : 0.0023
+k:66 methode de taylor  x = 0.6700, y = 1.1794 || valeur exact : 1.1817085777865426 || erreur : 0.0023
+k:67 methode de taylor  x = 0.6800, y = 1.1843 || valeur exact : 1.1866169923655898 || erreur : 0.0023
+k:68 methode de taylor  x = 0.6900, y = 1.1892 || valeur exact : 1.1915760690660557 || erreur : 0.0023
+k:69 methode de taylor  x = 0.7000, y = 1.1942 || valeur exact : 1.1965853037914096 || erreur : 0.0023
+k:70 methode de taylor  x = 0.7100, y = 1.1993 || valeur exact : 1.2016441974609653 || erreur : 0.0024
+k:71 methode de taylor  x = 0.7200, y = 1.2044 || valeur exact : 1.206752255959972 || erreur : 0.0024
+k:72 methode de taylor  x = 0.7300, y = 1.2095 || valeur exact : 1.2119089900902027 || erreur : 0.0024
+k:73 methode de taylor  x = 0.7400, y = 1.2147 || valeur exact : 1.2171139155210347 || erreur : 0.0024
+k:74 methode de taylor  x = 0.7500, y = 1.2199 || valeur exact : 1.222366552741015 || erreur : 0.0024
+k:75 methode de taylor  x = 0.7600, y = 1.2252 || valeur exact : 1.2276664270099094 || erreur : 0.0025
+k:76 methode de taylor  x = 0.7700, y = 1.2305 || valeur exact : 1.2330130683112284 || erreur : 0.0025
+k:77 methode de taylor  x = 0.7800, y = 1.2359 || valeur exact : 1.2384060113052238 || erreur : 0.0025
+k:78 methode de taylor  x = 0.7900, y = 1.2413 || valeur exact : 1.2438447952823561 || erreur : 0.0025
+k:79 methode de taylor  x = 0.8000, y = 1.2468 || valeur exact : 1.2493289641172218 || erreur : 0.0025
+k:80 methode de taylor  x = 0.8100, y = 1.2523 || valeur exact : 1.2548580662229414 || erreur : 0.0025
+k:81 methode de taylor  x = 0.8200, y = 1.2579 || valeur exact : 1.2604316545059995 || erreur : 0.0025
+k:82 methode de taylor  x = 0.8300, y = 1.2635 || valeur exact : 1.266049286321536 || erreur : 0.0026
+k:83 methode de taylor  x = 0.8400, y = 1.2691 || valeur exact : 1.27171052342908 || erreur : 0.0026
+k:84 methode de taylor  x = 0.8500, y = 1.2748 || valeur exact : 1.277414931948727 || erreur : 0.0026
+k:85 methode de taylor  x = 0.8600, y = 1.2806 || valeur exact : 1.2831620823177492 || erreur : 0.0026
+k:86 methode de taylor  x = 0.8700, y = 1.2863 || valeur exact : 1.2889515492476393 || erreur : 0.0026
+k:87 methode de taylor  x = 0.8800, y = 1.2922 || valeur exact : 1.2947829116815817 || erreur : 0.0026
+k:88 methode de taylor  x = 0.8900, y = 1.2980 || valeur exact : 1.300655752752346 || erreur : 0.0026
+k:89 methode de taylor  x = 0.9000, y = 1.3039 || valeur exact : 1.3065696597405996 || erreur : 0.0027
+k:90 methode de taylor  x = 0.9100, y = 1.3099 || valeur exact : 1.3125242240336363 || erreur : 0.0027
+k:91 methode de taylor  x = 0.9200, y = 1.3158 || valeur exact : 1.3185190410845145 || erreur : 0.0027
+k:92 methode de taylor  x = 0.9300, y = 1.3219 || valeur exact : 1.3245537103716014 || erreur : 0.0027
+k:93 methode de taylor  x = 0.9400, y = 1.3279 || valeur exact : 1.3306278353585215 || erreur : 0.0027
+k:94 methode de taylor  x = 0.9500, y = 1.3340 || valeur exact : 1.3367410234545016 || erreur : 0.0027
+k:95 methode de taylor  x = 0.9600, y = 1.3402 || valeur exact : 1.3428928859751124 || erreur : 0.0027
+k:96 methode de taylor  x = 0.9700, y = 1.3464 || valeur exact : 1.3490830381033991 || erreur : 0.0027
+k:97 methode de taylor  x = 0.9800, y = 1.3526 || valeur exact : 1.3553110988513999 || erreur : 0.0027
+k:98 methode de taylor  x = 0.9900, y = 1.3588 || valeur exact : 1.3615766910220461 || erreur : 0.0028
+k:99 methode de taylor  x = 1.0000, y = 1.3651 || valeur exact : 1.3678794411714428 || erreur : 0.0028
+
+=========== Methode de Taylor Recursive =================
+methode de tay0lor  x = 0.0100, y0 = 1.0000 || valeur exact : 1.0000498337491681 || erreur : 0.0000
+methode de tay0lor  x = 0.0200, y0 = 1.0001 || valeur exact : 1.0001986733067552 || erreur : 0.0001
+methode de tay0lor  x = 0.0300, y0 = 1.0003 || valeur exact : 1.000445533548508 || erreur : 0.0001
+methode de tay0lor  x = 0.0400, y0 = 1.0006 || valeur exact : 1.000789439152323 || erreur : 0.0002
+methode de tay0lor  x = 0.0500, y0 = 1.0010 || valeur exact : 1.001229424500714 || erreur : 0.0002
+methode de tay0lor  x = 0.0600, y0 = 1.0015 || valeur exact : 1.0017645335842487 || erreur : 0.0003
+methode de tay0lor  x = 0.0700, y0 = 1.0021 || valeur exact : 1.0023938199059483 || erreur : 0.0003
+methode de tay0lor  x = 0.0800, y0 = 1.0027 || valeur exact : 1.0031163463866357 || erreur : 0.0004
+methode de tay0lor  x = 0.0900, y0 = 1.0035 || valeur exact : 1.0039311852712283 || erreur : 0.0004
+methode de tay0lor  x = 0.1000, y0 = 1.0044 || valeur exact : 1.0048374180359596 || erreur : 0.0005
+methode de tay0lor  x = 0.1100, y0 = 1.0053 || valeur exact : 1.0058341352965283 || erreur : 0.0005
+methode de tay0lor  x = 0.1200, y0 = 1.0064 || valeur exact : 1.0069204367171574 || erreur : 0.0006
+methode de tay0lor  x = 0.1300, y0 = 1.0075 || valeur exact : 1.0080954309205612 || erreur : 0.0006
+methode de tay0lor  x = 0.1400, y0 = 1.0087 || valeur exact : 1.0093582353988058 || erreur : 0.0007
+methode de tay0lor  x = 0.1500, y0 = 1.0100 || valeur exact : 1.0107079764250577 || erreur : 0.0007
+methode de tay0lor  x = 0.1600, y0 = 1.0114 || valeur exact : 1.0121437889662113 || erreur : 0.0007
+methode de tay0lor  x = 0.1700, y0 = 1.0129 || valeur exact : 1.0136648165963837 || erreur : 0.0008
+methode de tay0lor  x = 0.1800, y0 = 1.0144 || valeur exact : 1.015270211411272 || erreur : 0.0008
+methode de tay0lor  x = 0.1900, y0 = 1.0161 || valeur exact : 1.0169591339433623 || erreur : 0.0009
+methode de tay0lor  x = 0.2000, y0 = 1.0178 || valeur exact : 1.0187307530779819 || erreur : 0.0009
+methode de tay0lor  x = 0.2100, y0 = 1.0196 || valeur exact : 1.020584245970187 || erreur : 0.0009
+methode de tay0lor  x = 0.2200, y0 = 1.0215 || valeur exact : 1.0225187979624786 || erreur : 0.0010
+methode de tay0lor  x = 0.2300, y0 = 1.0235 || valeur exact : 1.024533602503334 || erreur : 0.0010
+methode de tay0lor  x = 0.2400, y0 = 1.0256 || valeur exact : 1.0266278610665533 || erreur : 0.0011
+methode de tay0lor  x = 0.2500, y0 = 1.0277 || valeur exact : 1.028800783071405 || erreur : 0.0011
+methode de tay0lor  x = 0.2600, y0 = 1.0299 || valeur exact : 1.0310515858035663 || erreur : 0.0011
+methode de tay0lor  x = 0.2700, y0 = 1.0322 || valeur exact : 1.0333794943368533 || erreur : 0.0012
+methode de tay0lor  x = 0.2800, y0 = 1.0346 || valeur exact : 1.0357837414557254 || erreur : 0.0012
+methode de tay0lor  x = 0.2900, y0 = 1.0370 || valeur exact : 1.0382635675785652 || erreur : 0.0012
+methode de tay0lor  x = 0.3000, y0 = 1.0395 || valeur exact : 1.0408182206817178 || erreur : 0.0013
+methode de tay0lor  x = 0.3100, y0 = 1.0421 || valeur exact : 1.0434469562242894 || erreur : 0.0013
+methode de tay0lor  x = 0.3200, y0 = 1.0448 || valeur exact : 1.046149037073691 || erreur : 0.0014
+methode de tay0lor  x = 0.3300, y0 = 1.0475 || valeur exact : 1.0489237334319261 || erreur : 0.0014
+methode de tay0lor  x = 0.3400, y0 = 1.0504 || valeur exact : 1.0517703227626098 || erreur : 0.0014
+methode de tay0lor  x = 0.3500, y0 = 1.0532 || valeur exact : 1.0546880897187134 || erreur : 0.0015
+methode de tay0lor  x = 0.3600, y0 = 1.0562 || valeur exact : 1.0576763260710311 || erreur : 0.0015
+methode de tay0lor  x = 0.3700, y0 = 1.0592 || valeur exact : 1.0607343306373547 || erreur : 0.0015
+methode de tay0lor  x = 0.3800, y0 = 1.0623 || valeur exact : 1.063861409212356 || erreur : 0.0015
+methode de tay0lor  x = 0.3900, y0 = 1.0655 || valeur exact : 1.0670568744981648 || erreur : 0.0016
+methode de tay0lor  x = 0.4000, y0 = 1.0687 || valeur exact : 1.0703200460356395 || erreur : 0.0016
+methode de tay0lor  x = 0.4100, y0 = 1.0720 || valeur exact : 1.0736502501363194 || erreur : 0.0016
+methode de tay0lor  x = 0.4200, y0 = 1.0754 || valeur exact : 1.077046819815057 || erreur : 0.0017
+methode de tay0lor  x = 0.4300, y0 = 1.0788 || valeur exact : 1.0805090947233167 || erreur : 0.0017
+methode de tay0lor  x = 0.4400, y0 = 1.0823 || valeur exact : 1.0840364210831415 || erreur : 0.0017
+methode de tay0lor  x = 0.4500, y0 = 1.0859 || valeur exact : 1.0876281516217734 || erreur : 0.0018
+methode de tay0lor  x = 0.4600, y0 = 1.0895 || valeur exact : 1.0912836455069261 || erreur : 0.0018
+methode de tay0lor  x = 0.4700, y0 = 1.0932 || valeur exact : 1.095002268282701 || erreur : 0.0018
+methode de tay0lor  x = 0.4800, y0 = 1.0969 || valeur exact : 1.098783391806141 || erreur : 0.0018
+methode de tay0lor  x = 0.4900, y0 = 1.1008 || valeur exact : 1.102626394184416 || erreur : 0.0019
+methode de tay0lor  x = 0.5000, y0 = 1.1046 || valeur exact : 1.1065306597126336 || erreur : 0.0019
+methode de tay0lor  x = 0.5100, y0 = 1.1086 || valeur exact : 1.110495578812266 || erreur : 0.0019
+methode de tay0lor  x = 0.5200, y0 = 1.1126 || valeur exact : 1.1145205479701943 || erreur : 0.0020
+methode de tay0lor  x = 0.5300, y0 = 1.1166 || valeur exact : 1.1186049696783553 || erreur : 0.0020
+methode de tay0lor  x = 0.5400, y0 = 1.1207 || valeur exact : 1.1227482523739898 || erreur : 0.0020
+methode de tay0lor  x = 0.5500, y0 = 1.1249 || valeur exact : 1.126949810380487 || erreur : 0.0020
+methode de tay0lor  x = 0.5600, y0 = 1.1292 || valeur exact : 1.131209063848815 || erreur : 0.0021
+methode de tay0lor  x = 0.5700, y0 = 1.1335 || valeur exact : 1.1355254386995373 || erreur : 0.0021
+methode de tay0lor  x = 0.5800, y0 = 1.1378 || valeur exact : 1.139898366565402 || erreur : 0.0021
+methode de tay0lor  x = 0.5900, y0 = 1.1422 || valeur exact : 1.1443272847345072 || erreur : 0.0021
+methode de tay0lor  x = 0.6000, y0 = 1.1467 || valeur exact : 1.1488116360940266 || erreur : 0.0021
+methode de tay0lor  x = 0.6100, y0 = 1.1512 || valeur exact : 1.1533508690745 || erreur : 0.0022
+methode de tay0lor  x = 0.6200, y0 = 1.1558 || valeur exact : 1.1579444375946748 || erreur : 0.0022
+methode de tay0lor  x = 0.6300, y0 = 1.1604 || valeur exact : 1.1625918010068972 || erreur : 0.0022
+methode de tay0lor  x = 0.6400, y0 = 1.1651 || valeur exact : 1.1672924240430487 || erreur : 0.0022
+methode de tay0lor  x = 0.6500, y0 = 1.1698 || valeur exact : 1.1720457767610162 || erreur : 0.0023
+methode de tay0lor  x = 0.6600, y0 = 1.1746 || valeur exact : 1.1768513344916993 || erreur : 0.0023
+methode de tay0lor  x = 0.6700, y0 = 1.1794 || valeur exact : 1.1817085777865426 || erreur : 0.0023
+methode de tay0lor  x = 0.6800, y0 = 1.1843 || valeur exact : 1.1866169923655898 || erreur : 0.0023
+methode de tay0lor  x = 0.6900, y0 = 1.1892 || valeur exact : 1.1915760690660557 || erreur : 0.0023
+methode de tay0lor  x = 0.7000, y0 = 1.1942 || valeur exact : 1.1965853037914096 || erreur : 0.0023
+methode de tay0lor  x = 0.7100, y0 = 1.1993 || valeur exact : 1.2016441974609653 || erreur : 0.0024
+methode de tay0lor  x = 0.7200, y0 = 1.2044 || valeur exact : 1.206752255959972 || erreur : 0.0024
+methode de tay0lor  x = 0.7300, y0 = 1.2095 || valeur exact : 1.2119089900902027 || erreur : 0.0024
+methode de tay0lor  x = 0.7400, y0 = 1.2147 || valeur exact : 1.2171139155210347 || erreur : 0.0024
+methode de tay0lor  x = 0.7500, y0 = 1.2199 || valeur exact : 1.222366552741015 || erreur : 0.0024
+methode de tay0lor  x = 0.7600, y0 = 1.2252 || valeur exact : 1.2276664270099094 || erreur : 0.0025
+methode de tay0lor  x = 0.7700, y0 = 1.2305 || valeur exact : 1.2330130683112284 || erreur : 0.0025
+methode de tay0lor  x = 0.7800, y0 = 1.2359 || valeur exact : 1.2384060113052238 || erreur : 0.0025
+methode de tay0lor  x = 0.7900, y0 = 1.2413 || valeur exact : 1.2438447952823561 || erreur : 0.0025
+methode de tay0lor  x = 0.8000, y0 = 1.2468 || valeur exact : 1.2493289641172218 || erreur : 0.0025
+methode de tay0lor  x = 0.8100, y0 = 1.2523 || valeur exact : 1.2548580662229414 || erreur : 0.0025
+methode de tay0lor  x = 0.8200, y0 = 1.2579 || valeur exact : 1.2604316545059995 || erreur : 0.0025
+methode de tay0lor  x = 0.8300, y0 = 1.2635 || valeur exact : 1.266049286321536 || erreur : 0.0026
+methode de tay0lor  x = 0.8400, y0 = 1.2691 || valeur exact : 1.27171052342908 || erreur : 0.0026
+methode de tay0lor  x = 0.8500, y0 = 1.2748 || valeur exact : 1.277414931948727 || erreur : 0.0026
+methode de tay0lor  x = 0.8600, y0 = 1.2806 || valeur exact : 1.2831620823177492 || erreur : 0.0026
+methode de tay0lor  x = 0.8700, y0 = 1.2863 || valeur exact : 1.2889515492476393 || erreur : 0.0026
+methode de tay0lor  x = 0.8800, y0 = 1.2922 || valeur exact : 1.2947829116815817 || erreur : 0.0026
+methode de tay0lor  x = 0.8900, y0 = 1.2980 || valeur exact : 1.300655752752346 || erreur : 0.0026
+methode de tay0lor  x = 0.9000, y0 = 1.3039 || valeur exact : 1.3065696597405996 || erreur : 0.0027
+methode de tay0lor  x = 0.9100, y0 = 1.3099 || valeur exact : 1.3125242240336363 || erreur : 0.0027
+methode de tay0lor  x = 0.9200, y0 = 1.3158 || valeur exact : 1.3185190410845145 || erreur : 0.0027
+methode de tay0lor  x = 0.9300, y0 = 1.3219 || valeur exact : 1.3245537103716014 || erreur : 0.0027
+methode de tay0lor  x = 0.9400, y0 = 1.3279 || valeur exact : 1.3306278353585215 || erreur : 0.0027
+methode de tay0lor  x = 0.9500, y0 = 1.3340 || valeur exact : 1.3367410234545016 || erreur : 0.0027
+methode de tay0lor  x = 0.9600, y0 = 1.3402 || valeur exact : 1.3428928859751124 || erreur : 0.0027
+methode de tay0lor  x = 0.9700, y0 = 1.3464 || valeur exact : 1.3490830381033991 || erreur : 0.0027
+methode de tay0lor  x = 0.9800, y0 = 1.3526 || valeur exact : 1.3553110988513999 || erreur : 0.0027
+methode de tay0lor  x = 0.9900, y0 = 1.3588 || valeur exact : 1.3615766910220461 || erreur : 0.0028
+methode de tay0lor  x = 1.0000, y0 = 1.3651 || valeur exact : 1.3678794411714428 || erreur : 0.0028
+
+======= Equations Differentielle ========
+L'equation utuliser est : f(x) =-y+x+1
+Donner n Le nomber D'eterations (-1) :  

@@ -1,0 +1,81 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Archives and compressed files
+*.tar
+*.zip
+*.gz
+*.bz2
+*.7z
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Package directories
+node_modules/
+bower_components/
+vendor/
+
+# Dependency / package managers
+*.lock
+package-lock.json
+yarn.lock
+Pipfile.lock
+poetry.lock
+
+# Environment & virtual environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+
+# Build / dist / cache
+dist/
+build/
+out/
+tmp/
+temp/
+*.cache
+.cache/
+coverage/
+*.coverage
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# JetBrains
+*.iml
+*.ipr
+*.iws
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.orig
+*.rej
